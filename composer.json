@@ -1,0 +1,9 @@
+{
+    "name": "l3n641/appotapay",
+    "description": "payment by appotapay",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.4",
+        "firebase/php-jwt": "^6.1"
+    }
+}
