@@ -1,5 +1,5 @@
 {
-    "name": "l3n641/appotapay",
+    "name": "l3n641/git remote add origin git@github.com:l3n641/appotapay.git",
     "description": "payment by appotapay",
     "type": "library",
     "require": {
